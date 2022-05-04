@@ -9,14 +9,16 @@ Spring 2022
 
 
 
+<img src='https://media.giphy.com/media/ebL2AqZUmKZWdWyNX9/giphy.gif' title='Video Walkthrough' width='320px' alt='Video Walkthrough' />
+
+
+<img src='https://media.giphy.com/media/X8Cz2H62kMundGo0N3/giphy.gif' title='Video Walkthrough' width='320px' alt='' />
+
+   
 
 
 
-
-
-
-
-
+ 
 
 
 
